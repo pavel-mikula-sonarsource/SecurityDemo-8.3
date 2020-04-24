@@ -1,0 +1,165 @@
+
++SecurityDemo83.HomeController.Index(string)U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs	 	(""7*â
+0∫
+∑
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs* (c
+%0string"__concat*42
+0SELECT ID, Title, Text FROM Article WHERE Page='*
+
+pagestringñ
+ì
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs* (v
+%1string"__concat*
+
+%0string*
+' AND Active=1Ì
+Í
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (w)
+%2#System.Data.SqlClient.SqlDataReader"3SecurityDemo83.HomeController.ExecuteReader(string)*!
+SecurityDemo83.HomeController*
+
+%1string∏
+µ
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (w)
+rd#System.Data.SqlClient.SqlDataReader"__id*+
+)
+%2#System.Data.SqlClient.SqlDataReader*
+1*’
+1«ƒ
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (
+
+%3bool"*System.Data.SqlClient.SqlDataReader.Read()*+
+)
+rd#System.Data.SqlClient.SqlDataReader2Read()*
+2
+3*Ö
+2ﬂ‹
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs' (6
+%4string"2System.Data.SqlClient.SqlDataReader.GetString(int)*+
+)
+rd#System.Data.SqlClient.SqlDataReader*22GetString(int)ﬂ‹
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs8 (G
+%5string"2System.Data.SqlClient.SqlDataReader.GetString(int)*+
+)
+rd#System.Data.SqlClient.SqlDataReader*22GetString(int)ûõ
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (H#
+%6SecurityDemo83.Models.Article"SecurityDemo83.Models.Article‰
+·
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (&
+
+%7void"5SecurityDemo83.Models.Article.Article(string, string)*%
+#
+%6SecurityDemo83.Models.Article*
+
+%4string*
+
+%5stringÆ
+´
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (H%
+dataSecurityDemo83.Models.Article"__id*%
+#
+%6SecurityDemo83.Models.Article*
+4*Ë
+3è
+å
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs0 (>
+%8string"__concat*	
+Page *
+
+pagestringì
+ê
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs0 (N
+%9string"__concat*
+
+%8string*
+ not found.üú
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (O$
+%10SecurityDemo83.Models.Article"SecurityDemo83.Models.Article·
+ﬁ
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (&
+%11void"5SecurityDemo83.Models.Article.Article(string, string)*&
+$
+%10SecurityDemo83.Models.Article*	
+Error*
+
+%9stringØ
+¨
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (O%
+dataSecurityDemo83.Models.Article"__id*&
+$
+%10SecurityDemo83.Models.Article*
+4*
+4*
+5*‘
+5P
+N
+%12object"__id*7*5
+SecurityDemo83.HomeController"
+ViewDataobjectO
+M
+%13object"__id*6*4
+SecurityDemo83.HomeController"
+ViewBagobjectP
+N
+%14object"__id*7*5
+SecurityDemo83.HomeController"
+TempDataobjectí
+è,
+%15%Microsoft.AspNetCore.Http.HttpContext"__id*Y*W
+SecurityDemo83.HomeController"4
+HttpContext%Microsoft.AspNetCore.Http.HttpContextZ
+X
+%16object"__id*A*?
+,
+%15%Microsoft.AspNetCore.Http.HttpContext"
+ItemsobjectÄ
+˝
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (
+%17void"!securitydemo-8.3/views/home/index*
+
+%18*'
+%
+dataSecurityDemo83.Models.Article*
+
+%12object*
+
+%13object*
+
+%14object*
+
+%16object"f
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (
+
+%17void*q
+6"l
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (	
+implicit return*ã
+7Ä
+~
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs	 	("
+%19"__entrypoint*
+
+pagestring*
+0:
+pagestringB!
+SecurityDemo83.HomeController

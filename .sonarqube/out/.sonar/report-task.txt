@@ -1,0 +1,6 @@
+projectKey=SecurityDemo-8.3
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=SecurityDemo-8.3
+ceTaskId=AXGsiynJ4WjNyk5gGjy-
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXGsiynJ4WjNyk5gGjy-

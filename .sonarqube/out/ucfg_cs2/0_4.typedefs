@@ -1,0 +1,7 @@
+„
+SecurityDemo83.Startupobjectè
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)QSecurityDemo83.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)∑
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)eSecurityDemo83.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ˆ
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment)ÑSecurityDemo83.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment)=
+Configuration.get(SecurityDemo83.Startup.Configuration.get=
+Configuration.set(SecurityDemo83.Startup.Configuration.set

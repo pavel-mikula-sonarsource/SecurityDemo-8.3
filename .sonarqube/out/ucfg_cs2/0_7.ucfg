@@ -1,0 +1,40 @@
+
+eSecurityDemo83.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)B
+8C:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Startup.cs (%"0*Ó
+0æ
+ã
+B
+8C:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Startup.cs (A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"µMicrosoft.Extensions.DependencyInjection.OptionsServiceCollectionExtensions.Configure<TOptions>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<TOptions>)*O"M
+KMicrosoft.Extensions.DependencyInjection.OptionsServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""©
+¦
+B
+8C:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Startup.cs (:
+%14Microsoft.Extensions.DependencyInjection.IMvcBuilder"‹Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddMvc(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionZ
+X
+B
+8C:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Startup.cs6 (V
+%2"__id*
+""×
+Ô
+B
+8C:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Startup.cs (W:
+%34Microsoft.Extensions.DependencyInjection.IMvcBuilder"ÁMicrosoft.Extensions.DependencyInjection.MvcCoreMvcBuilderExtensions.SetCompatibilityVersion(Microsoft.Extensions.DependencyInjection.IMvcBuilder, Microsoft.AspNetCore.Mvc.CompatibilityVersion)*H"F
+DMicrosoft.Extensions.DependencyInjection.MvcCoreMvcBuilderExtensions*<
+:
+%14Microsoft.Extensions.DependencyInjection.IMvcBuilder*
+
+%2*
+1*^
+1"Y
+B
+8C:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Startup.cs (	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
+SecurityDemo83.Startup

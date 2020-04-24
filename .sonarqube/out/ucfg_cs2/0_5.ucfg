@@ -1,0 +1,95 @@
+
+3SecurityDemo83.HomeController.ExecuteReader(string)U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (+"0*¬
+0â
+Ü
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs) (d=
+%07System.Configuration.ConnectionStringSettingsCollection"?System.Configuration.ConfigurationManager.ConnectionStrings.get*-"+
+)System.Configuration.ConfigurationManagerÈ
+Ê
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs) (o3
+%1-System.Configuration.ConnectionStringSettings"
+__arrayGet*?
+=
+%07System.Configuration.ConnectionStringSettingsCollection*	
+Default‰
+·
+V
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs) (Ä
+%2string"BSystem.Configuration.ConnectionStringSettings.ConnectionString.get*5
+3
+%1-System.Configuration.ConnectionStringSettings´®
+V
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (Å)
+%3#System.Data.SqlClient.SqlConnection"#System.Data.SqlClient.SqlConnectionﬁ
+€
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs ((
+
+%4void"9System.Data.SqlClient.SqlConnection.SqlConnection(string)*+
+)
+%3#System.Data.SqlClient.SqlConnection*
+
+%2stringª
+∏
+V
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (Å+
+conn#System.Data.SqlClient.SqlConnection"__id*+
+)
+%3#System.Data.SqlClient.SqlConnection§°
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (:&
+%5 System.Data.SqlClient.SqlCommand" System.Data.SqlClient.SqlCommandÆ
+´
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs! (+
+
+%6void"XSystem.Data.SqlClient.SqlCommand.SqlCommand(string, System.Data.SqlClient.SqlConnection)*(
+&
+%5 System.Data.SqlClient.SqlCommand*
+
+commandstring*-
++
+conn#System.Data.SqlClient.SqlConnection≥
+∞
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (:'
+cmd System.Data.SqlClient.SqlCommand"__id*(
+&
+%5 System.Data.SqlClient.SqlCommand*
+1*≈
+1¡
+æ
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs (
+
+%7void"*System.Data.SqlClient.SqlConnection.Open()*-
++
+conn#System.Data.SqlClient.SqlConnectionm
+k
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs )  (T
+%8"__id*
+""Ö
+Ç
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs   (U)
+%9#System.Data.SqlClient.SqlDataReader"KSystem.Data.SqlClient.SqlCommand.ExecuteReader(System.Data.CommandBehavior)*)
+'
+cmd System.Data.SqlClient.SqlCommand*
+
+%8"Ñ
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs   (V+
+)
+%9#System.Data.SqlClient.SqlDataReader*
+2*
+3*q
+3"l
+U
+KC:\Projects\SecurityDemo-8.3\SecurityDemo-8.3\Controllers\HomeController.cs" "(	
+implicit return:
+commandstringB!
+SecurityDemo83.HomeController
